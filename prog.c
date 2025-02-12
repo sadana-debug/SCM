@@ -8,5 +8,7 @@ int sub=a-b;
 printf("the subtract%d",sub);
 int mul=a*b;
 printf("multiplication %d ",mul);
+int div=a/b;
+printf("division is %d ",div);
 return 0;
 }
