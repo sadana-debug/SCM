@@ -7,8 +7,9 @@ if(n>0)
 { printf("postive number");}
 else if 
 {printf("negative number"0;}
-else 
+else if(n==0) 
 {printf("its zero");}
+
 return 0 ; 
 }
 
