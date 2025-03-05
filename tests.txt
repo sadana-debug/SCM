@@ -1,3 +1,3 @@
-amity unversity-in banglore
+ amity unversity-in banglore.cse core
 
 git command success
