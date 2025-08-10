@@ -11,7 +11,7 @@ else if(n<0)
 else if(n==0) 
 {printf("its zero");}
 
-
+printf(" number is correct ");
 return 0 ; 
 }
 
